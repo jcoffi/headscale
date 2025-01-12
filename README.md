@@ -386,19 +386,19 @@ make build
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/jcoffi>
-            <img src=https://avatars.githubusercontent.com/u/21188264?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Justin Coffi/>
+        <a href=https://github.com/hdhoang>
+            <img src=https://avatars.githubusercontent.com/u/12537?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=hdhoang/>
             <br />
-            <sub style="font-size:14px"><b>Justin Coffi</b></sub>
+            <sub style="font-size:14px"><b>hdhoang</b></sub>
         </a>
     </td>
 </tr>
 <tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/fdelucchijr>
-            <img src=https://avatars.githubusercontent.com/u/69133647?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Fernando De Lucchi/>
+        <a href=https://github.com/bravechamp>
+            <img src=https://avatars.githubusercontent.com/u/48980452?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=bravechamp/>
             <br />
-            <sub style="font-size:14px"><b>Fernando De Lucchi</b></sub>
+            <sub style="font-size:14px"><b>bravechamp</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
